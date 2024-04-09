@@ -1,0 +1,46 @@
+.navbar{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+}
+.navbar-brand{
+    color:darkgreen;
+}
+
+h1{
+    color:darkgreen;
+    font-size: 45px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.main{
+    color: navy;
+        font-family:Georgia, 'Times New Roman', Times, serif;
+      font-size: 25px;
+
+}
+h3{
+    color: darkgreen;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+
+}
+.sub{
+    color: navy;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+
+
+}
+.card-title{
+    color: navy;
+}
+.ftr{
+    color:navy;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+
+
+}
+#contact{
+    background-color:lightgray;
+}
+.link{
+    text-decoration: none;
+}
